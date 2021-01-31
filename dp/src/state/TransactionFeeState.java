@@ -32,6 +32,4 @@ public class TransactionFeeState implements State{
 	public String toString() {
 		return "[TransactionFeeState]";
 	}
-
-
 }

@@ -26,5 +26,4 @@ public class NoTransactionFeeState implements State{
 	public String toString() {
 		return "[NoTransactionFeeState]";
 	}
-
 }
