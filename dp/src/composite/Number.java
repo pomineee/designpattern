@@ -1,8 +1,7 @@
-package decorator;
+package composite;
 
 public class Number extends Expression{
-	
-	public Number(String str) {
+	Number(String str){
 		this.str = str;
 	}
-}
+}	
